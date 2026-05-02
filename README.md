@@ -27,7 +27,7 @@ MS in Applied Machine Learning at the University of Maryland, College Park.
 
 ## About
 
-I’m interested in machine learning, data engineering, predictive modeling, and applied analytics.  
+I’m interested in machine learning, data science, predictive modeling, and applied analytics.  
 Most of my work focuses on building end-to-end systems involving data pipelines, feature engineering, model development, and deployment.
 
 ---
